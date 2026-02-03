@@ -14,29 +14,40 @@
 ### Authentication
 Secure login and signup pages with a clean, modern UI.
 
-| **Sign Up Page** | **Login Page** |
-|:---:|:---:|
-| ![Sign Up Page](./screenshots/image_664c48.png) | ![Login Page](./screenshots/edited-image.png) |
+ **Sign Up Page** 
+ <img width="1913" height="972" alt="image" src="https://github.com/user-attachments/assets/c9c944d5-6c46-49fc-ae61-001c116fcb07" />
 
-### Real-Time Messaging
+ 
+ 
+ **Login Page** 
+<img width="1908" height="969" alt="Screenshot 2026-02-02 150716" src="https://github.com/user-attachments/assets/ae6413d1-9142-4665-8531-e515943a37b8" />
+
+
+
+### Real-Time Messaging ![Chat Interface]
 Send text and images instantly. Includes typing indicators and timestamps.
+<img width="1913" height="959" alt="Screenshot 2026-02-02 221138" src="https://github.com/user-attachments/assets/bad5a317-93f0-4fe3-ada2-be72a0e86c4d" />
 
-![Chat Interface](./screenshots/Screenshot%202026-02-02%20221138.png)
+
 
 ### Dashboard & Contacts
 See who is online and start conversations easily.
 
-![Dashboard](./screenshots/Screenshot%202026-02-02%20150513.png)
+<img width="1894" height="873" alt="image" src="https://github.com/user-attachments/assets/a6a436aa-d303-45ea-a66c-cd5fc6633c68" />
+
 
 ### Personalization
 **30+ Themes available!** Customize your interface with the built-in theme switcher (Cyberpunk, Retro, Valentine, Aqua, and more).
 
-![Theme Selection](./screenshots/Screenshot%202026-02-02%20150845.png)
+![Theme Selection]
+<img width="1871" height="914" alt="image" src="https://github.com/user-attachments/assets/d78cf5f9-ec89-4efd-8ac0-6d9ca7e0bdd9" />
+
 
 ### User Profile
 Manage your account details and profile picture.
 
-![Profile Page](./screenshots/Screenshot%202026-02-02%20150639.png)
+<img width="1911" height="979" alt="Screenshot 2026-02-02 150639" src="https://github.com/user-attachments/assets/58c15811-9745-4b4b-8bc5-341e9381841c" />
+
 
 ---
 
@@ -47,7 +58,7 @@ Manage your account details and profile picture.
 * Tailwind CSS
 * DaisyUI (Component Library)
 * Lucide React (Icons)
-* Redux Toolkit (State Management)
+* Zustand (State Management)
 
 **Backend:**
 * Node.js
